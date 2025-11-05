@@ -7,6 +7,7 @@ import 'dart:js_interop_unsafe';
 import 'dart:typed_data';
 import 'dart:ui_web';
 
+import 'package:flutter_avif_platform_interface/flutter_avif_bridge.web.dart';
 import 'package:web/web.dart' as web;
 import 'package:flutter_avif_platform_interface/flutter_avif_platform_interface.dart';
 
